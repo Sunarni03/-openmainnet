@@ -1,2 +1,1 @@
-# -openmainnet
-Open mainnet
+bank
