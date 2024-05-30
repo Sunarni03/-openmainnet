@@ -1,0 +1,2 @@
+# -openmainnet
+Open mainnet
